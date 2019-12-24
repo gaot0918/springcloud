@@ -1,4 +1,4 @@
-package com.gaot.eurekaserver;
+package com.gaot.eureka.provider.eureka.server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
